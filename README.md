@@ -51,6 +51,20 @@ This module creates a robust VPC architecture following AWS best practices:
 - **Modular design** for reusability
 - **Output values** for integration with other modules
 
+## 🖼️ AWS Console Views
+
+### Resource Map
+<img width="2519" height="945" alt="Snímek obrazovky 2026-01-09 193026" src="https://github.com/user-attachments/assets/9a086bed-1586-4c5b-addd-124aed20eb07" />
+
+### Subnets Across Availability Zones
+<img width="2517" height="469" alt="Snímek obrazovky 2026-01-09 193211" src="https://github.com/user-attachments/assets/3e06f21f-4a25-40e6-954d-eaff1f06a587" />
+
+
+### Security Groups Configuration
+<img width="2492" height="417" alt="Snímek obrazovky 2026-01-09 193327" src="https://github.com/user-attachments/assets/8e6a74a5-5f75-40f0-ae7a-d547a477b74a" />
+
+
+
 ## 📁 Project Structure
 ```
 .
